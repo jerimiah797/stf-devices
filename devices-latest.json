@@ -8557,6 +8557,34 @@
       "ver": "5.0"
     }
   },
+  "Nexus_10": {
+    "cpu": {
+      "cores": 2,
+      "freq": "2.3",
+      "name": "Nvidia Tegra K1 64 bits"
+    },
+    "date": "2014-11-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 10.1,
+      "w": 1600
+    },
+    "maker": {
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Nexus 10",
+      "long": "Nexus 10"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1.1"
+    }
+  },
   "ONE-FIVE_C1": {
     "carrier": {
       "code": "_",
