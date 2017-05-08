@@ -14263,6 +14263,34 @@
       "ver": "5.0.2"
     }
   },
+  "_One": {
+    "cpu": {
+      "cores": 4,
+      "freq": "2.5",
+      "name": "Qualcomm Snapdragon 801 MSM8974AC"
+    },
+    "date": "2014-03-01T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.3,
+      "w": 720
+    },
+    "maker": {
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "HTC One Mini",
+      "long": "One Mini"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0.2"
+    }
+  },
   "arrows_M02": {
     "carrier": {
       "code": "_",
