@@ -6338,6 +6338,34 @@
       "ver": "4.2.2"
     }
   },
+  "KFARWI": {
+    "cpu": {
+      "cores": 4,
+      "freq": "2.2",
+      "name": "Qualcomm Snapdragon 800"
+    },
+    "date": "2013-10-18T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 6,
+      "w": 1280
+    },
+    "maker": {
+      "name": "Amazon"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Kindle Fire HDX 6",
+      "long": "KFARWI"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1.1"
+    }
+  },
   "KYL21": {
     "carrier": {
       "code": "a",
@@ -9666,7 +9694,7 @@
       "rom": 32768
     },
     "name": {
-      "id": "GALAXY Note 4",
+      "id": "Galaxy Note 4",
       "long": "SM-N910A"
     },
     "os": {
