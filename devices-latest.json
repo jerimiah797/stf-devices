@@ -14235,6 +14235,34 @@
       "ver": "4.4.2"
     }
   },
+  "_One_M9": {
+    "cpu": {
+      "cores": 4,
+      "freq": "2.5",
+      "name": "Qualcomm Snapdragon 801 MSM8974AC"
+    },
+    "date": "2014-03-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5,
+      "w": 1080
+    },
+    "maker": {
+      "name": "HTC"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "HTC One M9",
+      "long": "One M9"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0.2"
+    }
+  },
   "arrows_M02": {
     "carrier": {
       "code": "_",
