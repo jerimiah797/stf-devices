@@ -9641,6 +9641,39 @@
       "ver": "5.0"
     }
   },
+  "SAMSUNG-SM-N910A": {
+    "carrier": {
+      "code": "d",
+      "name": "DoCoMo"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.3,
+      "name": "Qualcomm Snapdragon 800 MSM8974"
+    },
+    "date": "2013-10-16T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.7,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "GALAXY Note 4",
+      "long": "SM-N910A"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    }
+  },
   "SC-01G": {
     "carrier": {
       "code": "d",
