@@ -12154,6 +12154,39 @@
       "ver": "4.4"
     }
   },
+  "D5503": {
+    "carrier": {
+      "code": "d",
+      "name": "DoCoMo"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.2,
+      "name": "Qualcomm Snapdragon 800 MSM8974"
+    },
+    "date": "2013-10-23T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.3,
+      "w": 720
+    },
+    "maker": {
+      "code": "so",
+      "name": "Sony mobile"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Xperia Z1 Compact",
+      "long": "D5503"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.0.2"
+    }
+  },
   "SO-01G": {
     "carrier": {
       "code": "d",
