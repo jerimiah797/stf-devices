@@ -10218,6 +10218,39 @@
       "ver": "4.2"
     }
   },
+  "yakju": {
+    "carrier": {
+      "code": "d",
+      "name": "DoCoMo"
+    },
+    "cpu": {
+      "cores": 2,
+      "freq": 1.2,
+      "name": "Texas Instruments OMAP4460"
+    },
+    "date": "2011-12-01T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.7,
+      "w": 720
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy Nexus Custom",
+      "long": "yakju"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.2"
+    }
+  },
   "SC-04E": {
     "carrier": {
       "code": "d",
