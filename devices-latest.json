@@ -2063,6 +2063,39 @@
       "ver": "4.4.2"
     }
   },
+  "ME302C": {
+    "carrier": {
+      "code": "a",
+      "name": "au"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": "2.3",
+      "name": "Intel Atom Z2560"
+    },
+    "date": "2014-08-22T15:00:00.000Z",
+    "display": {
+      "h": 1200,
+      "s": 10.1,
+      "w": 1920
+    },
+    "maker": {
+      "code": "as",
+      "name": "ASUS"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "ASUS MeMO Pad FHD 10 (Atom)",
+      "long": "ME302C"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.2"
+    }
+  },
   "ASUS_T00J": {
     "cpu": {
       "cores": 2,
