@@ -8347,6 +8347,40 @@
       "ver": "4.0"
     }
   },
+  "Nexus_S": {
+    "carrier": {
+      "code": "e",
+      "name": "EMOBILE"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.26,
+      "name": "Qualcomm Snapdragon 800 MSM8974"
+    },
+    "date": "2013-11-14T15:00:00.000Z",
+    "display": {
+      "h": 800,
+      "s": 4.0,
+      "w": 480
+    },
+    "maker": {
+      "code": "l",
+      "name": "LG"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Nexus S",
+      "long": "Nexus_S",
+      "product": "occam"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.1.2"
+    }
+  },
   "Nexus7": {
     "carrier": {
       "code": "d",
