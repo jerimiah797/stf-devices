@@ -10218,7 +10218,7 @@
       "ver": "4.2"
     }
   },
-  "maguro": {
+  "Galaxy_Nexus": {
     "carrier": {
       "code": "d",
       "name": "DoCoMo"
@@ -10243,8 +10243,8 @@
       "rom": 16384
     },
     "name": {
-      "id": "Galaxy Nexus Custom",
-      "long": "yakju"
+      "id": "Galaxy Nexus",
+      "long": "Galaxy_Nexus"
     },
     "os": {
       "type": "android",
