@@ -14071,6 +14071,34 @@
       "ver": "2.3.3"
     }
   },
+  "XT1034": {
+    "cpu": {
+      "cores": 4,
+      "freq": "1.2",
+      "name": "Qualcomm MSM8226 Snapdragon 4"
+    },
+    "date": "2013-08-01T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 4.5,
+      "w": 720
+    },
+    "maker": {
+      "name": "Motorola"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Moto G (Gen1)",
+      "long": "XT1034"
+    },
+    "os": {
+      "type": "android",
+      "ver": "4.4.4"
+    }
+  },
   "XT1053": {
     "cpu": {
       "cores": 2,
