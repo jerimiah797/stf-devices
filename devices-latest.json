@@ -7364,6 +7364,34 @@
       "ver": "6.0"
     }
   },
+  "VS987": {
+    "cpu": {
+      "cores": 4,
+      "freq": "2.15",
+      "name": "Qualcomm MSM8996 Snapdragon 820"
+    },
+    "date": "2016-02-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.3,
+      "w": 1440
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "LG G5",
+      "long": "VS987"
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0.1"
+    }
+  },
   "LGL21": {
     "carrier": {
       "code": "a",
