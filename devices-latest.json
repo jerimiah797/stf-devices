@@ -7336,6 +7336,34 @@
       "ver": "4.4.2"
     }
   },
+  "LG-H815": {
+    "cpu": {
+      "cores": 6,
+      "freq": "1.4",
+      "name": "Qualcomm MSM8992 Snapdragon 808"
+    },
+    "date": "2015-04-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.5,
+      "w": 1440
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16384
+    },
+    "name": {
+      "id": "LG G4",
+      "long": "LG-H815"
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0"
+    }
+  },
   "LGL21": {
     "carrier": {
       "code": "a",
