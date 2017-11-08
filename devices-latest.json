@@ -10079,6 +10079,39 @@
       "ver": "4.3"
     }
   },
+  "SAMSUNG-SM-G925A": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.1,
+      "name": "Exynos 7420 Octa"
+    },
+    "date": "2015-03-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.1,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S6 edge",
+      "long": "SAMSUNG-SM-G925A"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1.1"
+    }
+  },
   "GT-N7100": {
     "carrier": {
       "code": "d",
