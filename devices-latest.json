@@ -10112,6 +10112,35 @@
       "ver": "5.1.1"
     }
   },
+  "SM-G955F": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.3,
+      "name": "Exynos 8895 Octa"
+    },
+    "date": "2017-03-01T15:00:00.000Z",
+    "display": {
+      "h": 2960,
+      "s": 5.1,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S8+",
+      "long": "SM-G955F"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.0"
+    }
+  },
   "GT-N7100": {
     "carrier": {
       "code": "d",
