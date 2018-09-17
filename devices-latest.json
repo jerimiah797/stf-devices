@@ -1792,7 +1792,7 @@
     },
     "name": {
       "id": "Galaxy Tab A (2017)",
-      "long": "Galaxy Tab A (2017)"
+      "long": "SAMSUNG-SM-T377A"
     },
     "os": {
       "type": "android",
@@ -16057,6 +16057,39 @@
     "os": {
       "type": "android",
       "ver": "4.4"
+    }
+  },
+  "Pixel": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.3,
+      "name": "Qualcomm MSM8998 Snapdragon 835"
+    },
+    "date": "2017-10-01T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.0,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel",
+      "long": "Pixel"
+    },
+    "os": {
+      "type": "android",
+      "ver": "8.0"
     }
   },
   "Pixel_2": {
