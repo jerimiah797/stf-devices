@@ -10197,6 +10197,39 @@
       "ver": "5.1.1"
     }
   },
+  "SM-G930T": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.1,
+      "name": "Qualcomm Snapdragon 820 MSM8996"
+    },
+    "date": "2015-03-01T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.1,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32768
+    },
+    "name": {
+      "id": "Galaxy S7",
+      "long": "SM-G930T"
+    },
+    "os": {
+      "type": "android",
+      "ver": "8.0"
+    }
+  },
   "SM-G955F": {
     "cpu": {
       "cores": 8,
