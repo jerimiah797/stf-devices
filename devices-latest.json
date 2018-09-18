@@ -7449,6 +7449,34 @@
       "ver": "6.0.1"
     }
   },
+  "LG-H872": {
+    "cpu": {
+      "cores": 8,
+      "freq": "1.8",
+      "name": "Qualcomm Snapdragon 450 SDM450"
+    },
+    "date": "2018-04-19T15:00:00.000Z",
+    "display": {
+      "h": 2160,
+      "s": 5.7,
+      "w": 1080
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "memory": {
+      "ram": 3072,
+      "rom": 32768
+    },
+    "name": {
+      "id": "LG G6",
+      "long": "LG G6"
+    },
+    "os": {
+      "type": "android",
+      "ver": "8.0"
+    }
+  },
   "LGL21": {
     "carrier": {
       "code": "a",
@@ -16065,11 +16093,11 @@
       "name": "Verizon"
     },
     "cpu": {
-      "cores": 8,
-      "freq": 2.3,
-      "name": "Qualcomm MSM8998 Snapdragon 835"
+      "cores": 4,
+      "freq": 2.15,
+      "name": "Qualcomm Snapdragon 821 MSM8996 Pro"
     },
-    "date": "2017-10-01T15:00:00.000Z",
+    "date": "2016-10-20T15:00:00.000Z",
     "display": {
       "h": 1920,
       "s": 5.0,
