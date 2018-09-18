@@ -6456,6 +6456,34 @@
       "ver": "4.2.2"
     }
   },
+  "KFAUWI": {
+    "cpu": {
+      "cores": 4,
+      "freq": "1.3",
+      "name": "ARM Cortex-A7 "
+    },
+    "date": "2017-10-18T15:00:00.000Z",
+    "display": {
+      "h": 600,
+      "s": 7,
+      "w": 1024
+    },
+    "maker": {
+      "name": "Amazon"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Kindle Fire (2017)",
+      "long": "KFAUWI"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
   "KFTT": {
     "cpu": {
       "cores": 4,
