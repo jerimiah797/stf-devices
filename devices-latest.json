@@ -14614,6 +14614,34 @@
       "ver": "4.4.4"
     }
   },
+  "XT1254": {
+    "cpu": {
+      "cores": 4,
+      "freq": "2.7",
+      "name": "Qualcomm Snapdragon 805"
+    },
+    "date": "2014-10-04T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.2,
+      "w": 1440
+    },
+    "maker": {
+      "name": "Motorola"
+    },
+    "memory": {
+      "ram": 3048,
+      "rom": 32384
+    },
+    "name": {
+      "id": "Motorola DROID Turbo",
+      "long": "XT1254"
+    },
+    "os": {
+      "type": "android",
+      "ver": "6.0.1"
+    }
+  },
   "Xperia_J1_Compact": {
     "carrier": {
       "code": "_",
