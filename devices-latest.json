@@ -16335,5 +16335,38 @@
       "type": "android",
       "ver": "8.0"
     }
+  },
+  "Pixel_3": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.5,
+      "name": "Qualcomm SDM845 Snapdragon 845"
+    },
+    "date": "2018-10-09T15:00:00.000Z",
+    "display": {
+      "h": 2160,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel 2",
+      "long": "Pixel_2"
+    },
+    "os": {
+      "type": "android",
+      "ver": "9.0"
+    }
   }
 }
