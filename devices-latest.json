@@ -10348,6 +10348,64 @@
       "ver": "7.0"
     }
   },
+  "SM-G960U": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Qualcomm SDM845 Snapdragon 845"
+    },
+    "date": "2018-02-25T15:00:00.000Z",
+    "display": {
+      "h": 2960,
+      "s": 5.1,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S9",
+      "long": "SM-G960U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "10.0"
+    }
+  },
+  "SM-J700T": {
+    "cpu": {
+      "cores": 8,
+      "freq": 1.4,
+      "name": "Qualcomm MSM8939 Snapdragon 615"
+    },
+    "date": "2015-06-19T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 5.5,
+      "w": 720
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy J7",
+      "long": "SM-J700T"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.1.1"
+    }
+  },
   "GT-N7100": {
     "carrier": {
       "code": "d",
