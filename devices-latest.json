@@ -8148,6 +8148,39 @@
       "ver": "5.1"
     }
   },
+  "BLA-A09": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.4,
+      "name": "Kirin 970"
+    },
+    "date": "2017-10-03T15:00:00.000Z",
+    "display": {
+      "h": 2160,
+      "s": 6.0,
+      "w": 1080
+    },
+    "maker": {
+      "code": "hw",
+      "name": "Huawei"
+    },
+    "memory": {
+      "ram": 6144,
+      "rom": 65554
+    },
+    "name": {
+      "id": "Mate 10 Pro",
+      "long": "BLA-A09"
+    },
+    "os": {
+      "type": "android",
+      "ver": "9.0"
+    }
+  },
   "N-01D": {
     "carrier": {
       "code": "d",
