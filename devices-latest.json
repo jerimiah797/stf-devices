@@ -1799,6 +1799,34 @@
       "ver": "7.1.1"
     }
   },
+  "TB-X304F": {
+    "cpu": {
+      "cores": 4,
+      "freq": "1.4",
+      "name": "Snapdragon 425"
+    },
+    "date": "2017-02-10T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 10.1,
+      "w": 800
+    },
+    "maker": {
+      "name": "Lenovo"
+    },
+    "memory": {
+      "ram": 2048,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Lenovo Tab 4 10",
+      "long": "TB-X304F"
+    },
+    "os": {
+      "type": "android",
+      "ver": "7.1.1"
+    }
+  },
   "403SH": {
     "carrier": {
       "code": "s",
