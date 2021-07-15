@@ -14733,6 +14733,34 @@
       "ver": "6.0.1"
     }
   },
+  "moto_e5_go": {
+    "cpu": {
+      "cores": 4,
+      "freq": "1.4",
+      "name": "Qualcomm MSM8917 Snapdragon 425"
+    },
+    "date": "2018-07-04T15:00:00.000Z",
+    "display": {
+      "h": 960,
+      "s": 5.2,
+      "w": 480
+    },
+    "maker": {
+      "name": "Motorola"
+    },
+    "memory": {
+      "ram": 1024,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Moto E5 Play Go",
+      "long": "moto_e5_go"
+    },
+    "os": {
+      "type": "android",
+      "ver": "8.1.0"
+    }
+  },
   "Xperia_J1_Compact": {
     "carrier": {
       "code": "_",
