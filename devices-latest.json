@@ -1799,7 +1799,7 @@
       "ver": "7.1.1"
     }
   },
-  "TB-X304F": {
+  "_TB-X304F": {
     "cpu": {
       "cores": 4,
       "freq": "1.4",
@@ -1820,7 +1820,7 @@
     },
     "name": {
       "id": "Lenovo Tab 4 10",
-      "long": "TB-X304F"
+      "long": "_TB-X304F"
     },
     "os": {
       "type": "android",
