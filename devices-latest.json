@@ -16515,5 +16515,71 @@
       "type": "android",
       "ver": "9.0"
     }
+  },
+  "ONEPLUS_A6013": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Qualcomm SDM845 Snapdragon 845"
+    },
+    "date": "2018-10-29T15:00:00.000Z",
+    "display": {
+      "h": 2340,
+      "s": 6.4,
+      "w": 1080
+    },
+    "maker": {
+      "code": "op",
+      "name": "OnePlus"
+    },
+    "memory": {
+      "ram": 6144,
+      "rom": 65554
+    },
+    "name": {
+      "id": "OnePlus 6T",
+      "long": "ONEPLUS_A6013"
+    },
+    "os": {
+      "type": "android",
+      "ver": "11.0"
+    }
+  },
+  "PVG100": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 1.4,
+      "name": "Qualcomm MSM8940 Snapdragon 435"
+    },
+    "date": "2018-10-29T15:00:00.000Z",
+    "display": {
+      "h": 1280,
+      "s": 3.3,
+      "w": 720
+    },
+    "maker": {
+      "code": "pm",
+      "name": "Palm"
+    },
+    "memory": {
+      "ram": 3144,
+      "rom": 32554
+    },
+    "name": {
+      "id": "Palm",
+      "long": "PVG100"
+    },
+    "os": {
+      "type": "android",
+      "ver": "8.1"
+    }
   }
 }
