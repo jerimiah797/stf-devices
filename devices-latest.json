@@ -1760,13 +1760,13 @@
     "cpu": {
       "cores": 8,
       "freq": 2.8,
-      "name": "Qualcomm SM8550-AC Snapdragon 8 Gen 2"
+      "name": "Qualcomm SM8450 Snapdragon 8 Gen 1"
     },
-    "date": "2023-02-01T15:00:00.000Z",
+    "date": "2022-02-25T15:00:00.000Z",
     "display": {
-      "h": 3088,
-      "s": 6.8,
-      "w": 1440 
+      "h": 2340,
+      "s": 6.1,
+      "w": 1080 
     },
     "maker": {
       "code": "sc",
@@ -1777,8 +1777,8 @@
       "rom": 16384
     },
     "name": {
-      "id": "Galaxy S23 Ultra",
-      "long": "Galaxy S23 Ultra"
+      "id": "Galaxy S22 5G",
+      "long": "SM-S901U1"
     },
     "os": {
       "type": "android",
