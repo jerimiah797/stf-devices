@@ -1621,6 +1621,10 @@
     }
   },
   "SM-G955F": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 8,
       "freq": 2.3,
@@ -1650,6 +1654,10 @@
     }
   },
   "SM-G960U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 8,
       "freq": 2.8,
@@ -1679,6 +1687,10 @@
     }
   },
   "SM-J700T": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 8,
       "freq": 1.4,
@@ -1708,6 +1720,10 @@
     }
   },
   "SM-N981U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 8,
       "freq": 2.73,
@@ -1737,6 +1753,10 @@
     }
   },
   "SM-S901U1": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 8,
       "freq": 2.8,
@@ -1758,7 +1778,7 @@
     },
     "name": {
       "id": "Galaxy S23 Ultra",
-      "long": "SM-S901U1"
+      "long": "Galaxy S23 Ultra"
     },
     "os": {
       "type": "android",
@@ -1766,6 +1786,10 @@
     }
   },
   "STV100-1": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 6,
       "freq": 1.4,
@@ -1795,6 +1819,10 @@
     }
   },
   "VS986": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 6,
       "freq": "1.4",
@@ -1823,6 +1851,10 @@
     }
   },
   "VS987": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
     "cpu": {
       "cores": 4,
       "freq": "2.15",
