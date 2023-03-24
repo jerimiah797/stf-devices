@@ -952,6 +952,39 @@
       "ver": "9"
     }
   },
+  "LE2117": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.84,
+      "name": "Qualcomm SM8350 Snapdragon 888 5G"
+    },
+    "date": "2021-03-26T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.55,
+      "w": 1080
+    },
+    "maker": {
+      "code": "op",
+      "name": "OnePlus"
+    },
+    "memory": {
+      "ram": 6144,
+      "rom": 65554
+    },
+    "name": {
+      "id": "OnePlus 9 5G",
+      "long": "LE2117"
+    },
+    "os": {
+      "type": "android",
+      "ver": "12.0"
+    }
+  },
   "LG-H815": {
     "cpu": {
       "cores": 6,
