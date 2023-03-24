@@ -1521,6 +1521,39 @@
       "ver": "7.1.1"
     }
   },
+  "SM-G781U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.84,
+      "name": "Qualcomm SM8250 Snapdragon 865 5G"
+    },
+    "date": "2020-10-02T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096 ,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S20 FE 5G",
+      "long": "SM-G781U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
   "SM-G920F": {
     "carrier": {
       "code": "a",
