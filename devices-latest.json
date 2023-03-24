@@ -1736,6 +1736,35 @@
       "ver": "13.0"
     }
   },
+  "SM-S901U1": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Qualcomm SM8550-AC Snapdragon 8 Gen 2"
+    },
+    "date": "2023-02-01T15:00:00.000Z",
+    "display": {
+      "h": 3088,
+      "s": 6.8,
+      "w": 1440 
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S23 Ultra",
+      "long": "SM-S901U1"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
   "STV100-1": {
     "cpu": {
       "cores": 6,
