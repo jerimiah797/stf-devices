@@ -1493,7 +1493,7 @@
       "ver": "10.0"
     }
   },
-"SAMSUNG-SM-T377A": {
+  "SAMSUNG-SM-T377A": {
     "cpu": {
       "cores": 4,
       "freq": "1.4",
@@ -1672,6 +1672,35 @@
     "os": {
       "type": "android",
       "ver": "7.1.1"
+    }
+  },
+  "SM-N981U": {
+    "cpu": {
+      "cores": 8,
+      "freq": 2.73,
+      "name": "Qualcomm SM8250 Snapdragon 865 5G+"
+    },
+    "date": "2020-08-05T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy Note20 5G",
+      "long": "SM-N981U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
     }
   },
   "STV100-1": {
