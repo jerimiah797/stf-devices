@@ -1400,6 +1400,39 @@
       "ver": "9.0"
     }
   },
+  "Pixel_4a": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.2,
+      "name": "Qualcomm SDM730 Snapdragon 730G"
+    },
+    "date": "2020-08-20T15:00:00.000Z",
+    "display": {
+      "h": 2340,
+      "s": 5.81,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel 4a",
+      "long": "Pixel_4a"
+    },
+    "os": {
+      "type": "android",
+      "ver": "10.0"
+    }
+  },
   "PVG100": {
     "carrier": {
       "code": "_",
