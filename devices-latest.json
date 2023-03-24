@@ -1465,7 +1465,35 @@
       "ver": "8.1"
     }
   },
-  "SAMSUNG-SM-T377A": {
+  "Redmi_Note_7": {
+    "cpu": {
+      "cores": 8,
+      "freq": "2.2",
+      "name": "Qualcomm SDM660 Snapdragon 660"
+    },
+    "date": "2019-01-10T15:00:00.000Z",
+    "display": {
+      "h": 2340,
+      "s": 6.3,
+      "w": 1080
+    },
+    "maker": {
+      "name": "Xiaomi"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Redmi Note 7",
+      "long": "Redmi_Note_7"
+    },
+    "os": {
+      "type": "android",
+      "ver": "10.0"
+    }
+  },
+"SAMSUNG-SM-T377A": {
     "cpu": {
       "cores": 4,
       "freq": "1.4",
