@@ -1432,6 +1432,74 @@
       "ver": "10.0"
     }
   },
+  "Pixel_6": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Cortex-X1"
+    },
+    "date": "2021-10-28T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.4,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 8192,
+      "rom": 128000
+    },
+    "name": {
+      "id": "Pixel 6",
+      "long": "Pixel_6",
+      "product": "oriole"
+    },
+    "os": {
+      "type": "android",
+      "ver": "14.0"
+    }
+  },
+  "Pixel_6_Pro": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Cortex-X1"
+    },
+    "date": "2021-10-28T15:00:00.000Z",
+    "display": {
+      "h": 3120,
+      "s": 6.7,
+      "w": 1440
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 8192,
+      "rom": 128000
+    },
+    "name": {
+      "id": "Pixel 6_Pro",
+      "long": "Pixel_6_Pro",
+      "product": "raven"
+    },
+    "os": {
+      "type": "android",
+      "ver": "14.0"
+    }
+  },
   "PVG100": {
     "carrier": {
       "code": "_",
