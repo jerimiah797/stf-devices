@@ -1985,6 +1985,39 @@
       "ver": "13.0"
     }
   },
+  "SM-S901U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Qualcomm SM8450 Snapdragon 8 Gen 1"
+    },
+    "date": "2022-02-25T15:00:00.000Z",
+    "display": {
+      "h": 2340,
+      "s": 6.1,
+      "w": 1080 
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S22 5G",
+      "long": "SM-S901U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
   "STV100-1": {
     "carrier": {
       "code": "a",
