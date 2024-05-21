@@ -1754,6 +1754,39 @@
       "ver": "10.0"
     }
   },
+  "SM-G973U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Qualcomm SDM855 Snapdragon 855"
+    },
+    "date": "2019-02-20T15:00:00.000Z",
+    "display": {
+      "h": 3040,
+      "s": 6.1,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S10",
+      "long": "SM-G973U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "11.0"
+    }
+  },
   "SM-J700T": {
     "carrier": {
       "code": "a",
