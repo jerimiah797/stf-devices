@@ -1432,6 +1432,39 @@
       "ver": "10.0"
     }
   },
+  "Pixel_5": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.2,
+      "name": "Qualcomm SM7250 Snapdragon 765G 5G"
+    },
+    "date": "2020-09-30T15:00:00.000Z",
+    "display": {
+      "h": 2340,
+      "s": 5.81,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel 5",
+      "long": "Pixel_5"
+    },
+    "os": {
+      "type": "android",
+      "ver": "11.0"
+    }
+  },
   "Pixel_6": {
     "carrier": {
       "code": "v",
