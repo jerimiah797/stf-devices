@@ -1399,6 +1399,39 @@
       "ver": "9.0"
     }
   },
+  "Pixel_3_XL": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.5,
+      "name": "Qualcomm SDM845 Snapdragon 845"
+    },
+    "date": "2018-10-18T15:00:00.000Z",
+    "display": {
+      "h": 2960,
+      "s": 5.5,
+      "w": 1440
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel 3 XL",
+      "long": "Pixel_3_XL"
+    },
+    "os": {
+      "type": "android",
+      "ver": "9.0"
+    }
+  },
   "Pixel_4a": {
     "carrier": {
       "code": "v",
