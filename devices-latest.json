@@ -1985,6 +1985,72 @@
       "ver": "13.0"
     }
   },
+  "SM-G986U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.73,
+      "name": "Qualcomm SM8250 Snapdragon 865 5G"
+    },
+    "date": "2020-03-06T15:00:00.000Z",
+    "display": {
+      "h": 3200,
+      "s": 6.7,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S22+ 5G",
+      "long": "SM-G986U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
+  "SM-G986U1": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.73,
+      "name": "Qualcomm SM8250 Snapdragon 865 5G"
+    },
+    "date": "2020-03-06T15:00:00.000Z",
+    "display": {
+      "h": 3200,
+      "s": 6.7,
+      "w": 1440
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S22+ 5G",
+      "long": "SM-G986U1"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
   "SM-S901U1": {
     "carrier": {
       "code": "a",
