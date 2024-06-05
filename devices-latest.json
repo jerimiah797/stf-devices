@@ -1040,6 +1040,34 @@
       "ver": "8.0"
     }
   },
+  "LG-H918": {
+    "cpu": {
+      "cores": 4,
+      "freq": "1.8",
+      "name": "Qualcomm MSM8996 Snapdragon 820"
+    },
+    "date": "2016-10-21T15:00:00.000Z",
+    "display": {
+      "h": 2560,
+      "s": 5.7,
+      "w": 1440
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32768
+    },
+    "name": {
+      "id": "LG V20",
+      "long": "LG V20"
+    },
+    "os": {
+      "type": "android",
+      "ver": "8.0"
+    }
+  },
   "moto_e5_go": {
     "cpu": {
       "cores": 4,
