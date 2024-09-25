@@ -1379,7 +1379,7 @@
       "ver": "11.0"
     }
   },
-  "3": {
+  "ONEPLUS_A3000": {
     "carrier": {
       "code": "_",
       "name": "MVNO/Other"
@@ -1405,7 +1405,7 @@
     },
     "name": {
       "id": "OnePlus 3",
-      "long": "3"
+      "long": "ONEPLUS_A3000"
     },
     "os": {
       "type": "android",
