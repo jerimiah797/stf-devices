@@ -1379,6 +1379,39 @@
       "ver": "11.0"
     }
   },
+  "3": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 4,
+      "freq": 2.15,
+      "name": "Qualcomm MSM8996 Snapdragon 820"
+    },
+    "date": "2016-06-29T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "op",
+      "name": "OnePlus"
+    },
+    "memory": {
+      "ram": 6144,
+      "rom": 65554
+    },
+    "name": {
+      "id": "OnePlus 3",
+      "long": "3"
+    },
+    "os": {
+      "type": "android",
+      "ver": "9.0"
+    }
+  },
   "HD1907": {
     "carrier": {
       "code": "_",
