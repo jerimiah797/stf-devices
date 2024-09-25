@@ -1068,6 +1068,34 @@
       "ver": "8.0"
     }
   },
+  "LG-H932": {
+    "cpu": {
+      "cores": 8,
+      "freq": "2.45",
+      "name": "Qualcomm MSM8998 Snapdragon 835"
+    },
+    "date": "2017-08-21T15:00:00.000Z",
+    "display": {
+      "h": 2880,
+      "s": 6.0,
+      "w": 1440
+    },
+    "maker": {
+      "name": "LG"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 64768
+    },
+    "name": {
+      "id": "LG V30",
+      "long": "LG V30"
+    },
+    "os": {
+      "type": "android",
+      "ver": "9.0"
+    }
+  },
   "moto_e5_go": {
     "cpu": {
       "cores": 4,
@@ -1094,6 +1122,62 @@
     "os": {
       "type": "android",
       "ver": "8.1.0"
+    }
+  },
+  "moto_x4": {
+    "cpu": {
+      "cores": 8,
+      "freq": "2.2",
+      "name": "Qualcomm SDM630 Snapdragon 630"
+    },
+    "date": "2017-10-04T15:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.2,
+      "w": 1080
+    },
+    "maker": {
+      "name": "Motorola"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 32000
+    },
+    "name": {
+      "id": "Moto X4",
+      "long": "moto_x4"
+    },
+    "os": {
+      "type": "android",
+      "ver": "9.0"
+    }
+  },
+  "moto_z4": {
+    "cpu": {
+      "cores": 8,
+      "freq": "2.0",
+      "name": "Qualcomm SDM675 Snapdragon 630"
+    },
+    "date": "2019-06-04T15:00:00.000Z",
+    "display": {
+      "h": 2340,
+      "s": 6.4,
+      "w": 1920
+    },
+    "maker": {
+      "name": "Motorola"
+    },
+    "memory": {
+      "ram": 4096,
+      "rom": 128000
+    },
+    "name": {
+      "id": "Moto Z4",
+      "long": "moto_z4"
+    },
+    "os": {
+      "type": "android",
+      "ver": "10.0"
     }
   },
   "Nexus_5": {
@@ -1295,6 +1379,39 @@
       "ver": "11.0"
     }
   },
+  "HD1907": {
+    "carrier": {
+      "code": "_",
+      "name": "MVNO/Other"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.8,
+      "name": "Qualcomm SM8150 Snapdragon 855+"
+    },
+    "date": "2019-09-29T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.55,
+      "w": 1080
+    },
+    "maker": {
+      "code": "op",
+      "name": "OnePlus"
+    },
+    "memory": {
+      "ram": 8192,
+      "rom": 128554
+    },
+    "name": {
+      "id": "OnePlus 7T",
+      "long": "HD1907"
+    },
+    "os": {
+      "type": "android",
+      "ver": "12.0"
+    }
+  },
   "Pixel": {
     "carrier": {
       "code": "v",
@@ -1493,6 +1610,72 @@
       "ver": "10.0"
     }
   },
+  "Pixel_4": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 1.284,
+      "name": "Qualcomm SM8150 Snapdragon 855"
+    },
+    "date": "2019-10-20T15:00:00.000Z",
+    "display": {
+      "h": 2280,
+      "s": 5.7,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 6096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel 4",
+      "long": "Pixel_4"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
+  "Pixel_4_XL": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 1.284,
+      "name": "Qualcomm SM8150 Snapdragon 855"
+    },
+    "date": "2019-08-20T15:00:00.000Z",
+    "display": {
+      "h": 3040,
+      "s": 6.3,
+      "w": 1440
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 6096,
+      "rom": 65536
+    },
+    "name": {
+      "id": "Pixel 4 XL",
+      "long": "Pixel_4_XL"
+    },
+    "os": {
+      "type": "android",
+      "ver": "13.0"
+    }
+  },
   "Pixel_5": {
     "carrier": {
       "code": "v",
@@ -1588,6 +1771,40 @@
       "id": "Pixel 6_Pro",
       "long": "Pixel_6_Pro",
       "product": "raven"
+    },
+    "os": {
+      "type": "android",
+      "ver": "14.0"
+    }
+  },
+  "Pixel_7": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.85,
+      "name": "Cortex-X1"
+    },
+    "date": "2022-10-28T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.3,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 8192,
+      "rom": 128000
+    },
+    "name": {
+      "id": "Pixel 7",
+      "long": "Pixel_7",
+      "product": "cheetah"
     },
     "os": {
       "type": "android",
@@ -2077,6 +2294,39 @@
     "os": {
       "type": "android",
       "ver": "13.0"
+    }
+  },
+  "SM-G991U": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.73,
+      "name": "Qualcomm SM8250 Snapdragon 8350"
+    },
+    "date": "2021-01-06T15:00:00.000Z",
+    "display": {
+      "h": 2400,
+      "s": 6.2,
+      "w": 1080
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 8192,
+      "rom": 128384
+    },
+    "name": {
+      "id": "Galaxy S21 5G",
+      "long": "SM-G991U"
+    },
+    "os": {
+      "type": "android",
+      "ver": "14.0"
     }
   },
   "SM-S901U1": {
