@@ -1844,6 +1844,40 @@
       "ver": "14.0"
     }
   },
+  "Pixel_10": {
+    "carrier": {
+      "code": "v",
+      "name": "Verizon"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 2.85,
+      "name": "Cortex-X1"
+    },
+    "date": "2022-10-28T15:00:00.000Z",
+    "display": {
+      "h": 2424 ,
+      "s": 6.3,
+      "w": 1080
+    },
+    "maker": {
+      "code": "g",
+      "name": "GOOGLE"
+    },
+    "memory": {
+      "ram": 8192,
+      "rom": 128000
+    },
+    "name": {
+      "id": "Pixel 10",
+      "long": "Pixel_10",
+      "product": "frankel"
+    },
+    "os": {
+      "type": "android",
+      "ver": "16.0"
+    }
+  },
   "PVG100": {
     "carrier": {
       "code": "_",
@@ -2426,6 +2460,39 @@
     "os": {
       "type": "android",
       "ver": "13.0"
+    }
+  },
+  "SM-S937U1": {
+    "carrier": {
+      "code": "a",
+      "name": "AT&T"
+    },
+    "cpu": {
+      "cores": 8,
+      "freq": 3.54,
+      "name": "Qualcomm SM8750-AC Snapdragon 8 Elite"
+    },
+    "date": "2025-05-25T15:00:00.000Z",
+    "display": {
+      "h": 3120,
+      "s": 6.7,
+      "w": 1440  
+    },
+    "maker": {
+      "code": "sc",
+      "name": "SAMSUNG"
+    },
+    "memory": {
+      "ram": 12096,
+      "rom": 16384
+    },
+    "name": {
+      "id": "Galaxy S25 Edge",
+      "long": "SM-S937U1"
+    },
+    "os": {
+      "type": "android",
+      "ver": "15.0"
     }
   },
   "STV100-1": {
