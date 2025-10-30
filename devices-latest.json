@@ -1208,7 +1208,7 @@
       "ver": "10.0"
     }
   },
-  "edge_plus_5G_UW_(2022)": {
+  "_edge_plus_5G_UW_(2022)": {
     "cpu": {
       "cores": 8,
       "freq": 3.0,
@@ -1228,7 +1228,7 @@
       "rom": 131072
     },
     "name": {
-      "id": "edge plus 5G UW (2022)",
+      "id": " edge plus 5G UW (2022)",
       "long": "XT2201-4"
     },
     "os": {
